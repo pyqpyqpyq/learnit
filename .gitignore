@@ -1,0 +1,8 @@
+##ignore this file##
+# /target/ 
+*.class 
+*.log
+*.jar
+*.war
+mtg
+tmp
